@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intelli_INF411.iml" filepath="$PROJECT_DIR$/Intelli_INF411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/TD1.iml" filepath="$PROJECT_DIR$/TD1/TD1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD2/TD2.iml" filepath="$PROJECT_DIR$/TD2/TD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD4/TD4.iml" filepath="$PROJECT_DIR$/TD4/TD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD5/TD5.iml" filepath="$PROJECT_DIR$/TD5/TD5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD6/TD6.iml" filepath="$PROJECT_DIR$/TD6/TD6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD7/TD7.iml" filepath="$PROJECT_DIR$/TD7/TD7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD8/TD8.iml" filepath="$PROJECT_DIR$/TD8/TD8.iml" />
+    </modules>
+  </component>
+</project>
