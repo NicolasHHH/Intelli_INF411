@@ -37,7 +37,7 @@ public class Test41 {
 			System.exit(1);
 		}
 
-		Picture pic = new Picture("photo.jpg");
+		Picture pic = new Picture("TD5/photo.jpg");
 		// pic.show();
 
 		Random r = new Random();

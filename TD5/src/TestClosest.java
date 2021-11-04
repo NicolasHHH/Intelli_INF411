@@ -33,7 +33,7 @@ public abstract class TestClosest {
 		// on remplit un arbre 3d avec les couleurs de pixels d'une image,
 		// et on recupere un sous-ensemble des memes points pour s'en servir
 		// dans les tests
-		Picture pic = new Picture("photo.jpg");
+		Picture pic = new Picture("TD5/photo.jpg");
 		int height = pic.height();
 		int width = pic.width();
 		int stride = height * width / size;
