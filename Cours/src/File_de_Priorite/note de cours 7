@@ -1,0 +1,8 @@
+
+Structure de Tas à la base (équivalent à un ABR)
+
+racine = 0
+gauche(i) = 2i+1
+droite(i) = 2i+2
+parent = (int)(i-1)/2
+
