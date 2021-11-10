@@ -21,7 +21,7 @@ public class Test {
 		if (print)
 			System.out.println("\n...sur le labyrinth '" + name + "'...");
 		
-		Ocean ocean = new Ocean(name, "data/" + name, BasicDirections.values()).reporters();
+		Ocean ocean = new Ocean(name, "TD9/data/" + name, BasicDirections.values()).reporters();
 		if (canvas)
 			ocean.add(new BasicOceanCanvas(name));
 		

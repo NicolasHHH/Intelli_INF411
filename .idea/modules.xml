@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Cours/Cours.iml" filepath="$PROJECT_DIR$/Cours/Cours.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intelli_INF411.iml" filepath="$PROJECT_DIR$/Intelli_INF411.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD1/TD1.iml" filepath="$PROJECT_DIR$/TD1/TD1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD10/TD10.iml" filepath="$PROJECT_DIR$/TD10/TD10.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD2/TD2.iml" filepath="$PROJECT_DIR$/TD2/TD2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD3/TD3.iml" filepath="$PROJECT_DIR$/TD3/TD3.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD4/TD4.iml" filepath="$PROJECT_DIR$/TD4/TD4.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/TD6/TD6.iml" filepath="$PROJECT_DIR$/TD6/TD6.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD7/TD7.iml" filepath="$PROJECT_DIR$/TD7/TD7.iml" />
       <module fileurl="file://$PROJECT_DIR$/TD8/TD8.iml" filepath="$PROJECT_DIR$/TD8/TD8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD9/TD9.iml" filepath="$PROJECT_DIR$/TD9/TD9.iml" />
     </modules>
   </component>
 </project>

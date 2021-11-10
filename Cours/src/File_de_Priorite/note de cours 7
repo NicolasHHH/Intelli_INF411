@@ -6,3 +6,6 @@ gauche(i) = 2i+1
 droite(i) = 2i+2
 parent = (int)(i-1)/2
 
+constuction tas : log1 + log2 + ... + logN-1 = NlogN
+déstruction tas : logN + log(N-1) + ... + log1 = NlogN
+
